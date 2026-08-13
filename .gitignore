@@ -1,0 +1,12 @@
+.env
+.env.*
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+node_modules/
+uploads/
+*.log
+*.pt
+*.pth
+backend/data/
